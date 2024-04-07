@@ -1,4 +1,4 @@
-![IMG-20240406-WA0010](https://github.com/ipraphul/ipraphul/assets/128310013/8832579e-6229-4be9-a98e-57fcb9882bfe)
+(https://github.com/ipraphul/ipraphul/assets/128310013/18fbacba-2bc6-4048-8fd5-e95fe5968662)
 
 <h1 align="center">Hi 👋, I'm Praphul Kumar Singh</h1>
 <h3 align="center">An enthusiastic software engineer from India</h3>

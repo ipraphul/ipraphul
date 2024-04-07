@@ -1,4 +1,5 @@
-![image](https://github.com/TARUN2K3/TARUN2K3/assets/127468524/2cc26fae-dfe5-466b-a9c8-371a200c6da0)
+![IMG-20240406-WA0010](https://github.com/ipraphul/ipraphul/assets/128310013/8832579e-6229-4be9-a98e-57fcb9882bfe)
+
 <h1 align="center">Hi 👋, I'm Praphul Kumar Singh</h1>
 <h3 align="center">An enthusiastic software engineer from India</h3>
 <img align="right" alt="coding" width="300" border-radius="500" src="https://www.bing.com/th/id/OGC.c0d1b11e54c2b07f7353dd160e8ba80d?pid=1.7&rurl=https%3a%2f%2fimages.squarespace-cdn.com%2fcontent%2fv1%2f5769fc401b631bab1addb2ab%2f1541580611624-TE64QGKRJG8SWAIUS7NS%2fcoding-freak.gif&ehk=KP15ljD%2fWrS1v6Cdn8FWrhB6ABhlz%2bmgsJsz2hJ7oIE%3d">

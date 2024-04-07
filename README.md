@@ -1,4 +1,4 @@
-(https://github.com/ipraphul/ipraphul/assets/128310013/18fbacba-2bc6-4048-8fd5-e95fe5968662)
+![Orange Digital Marketing Instagram Post](https://github.com/ipraphul/ipraphul/assets/128310013/6a72d261-5af4-4292-b6ec-faebee4eff0a)
 
 <h1 align="center">Hi 👋, I'm Praphul Kumar Singh</h1>
 <h3 align="center">An enthusiastic software engineer from India</h3>
